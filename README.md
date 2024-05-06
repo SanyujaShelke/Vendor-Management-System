@@ -7,7 +7,7 @@ Welcome to the Vendor Management System API documentation. This document provide
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/SanyujaShelke/Vendor-Management-System.git
     cd vendor_management_system
     ```
 
