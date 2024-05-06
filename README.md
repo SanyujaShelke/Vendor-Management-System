@@ -11,29 +11,36 @@ Welcome to the Vendor Management System API documentation. This document provide
     cd vendor_management_system
     ```
 
-2. Install dependencies:
+2. Activate the virtual environment:
+
+    ```bash
+    source <path_to_virtual_env>/bin/activate  # For Unix/Mac
+    .\myenv\Scripts\activate     # For Windows
+    ```
+
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Apply migrations:
+4. Apply migrations:
 
     ```bash
     python manage.py migrate
     ```
 
-4. Create a superuser (for accessing the Django admin):
+5. Create a superuser (for accessing the Django admin):
 
     ```bash
     python manage.py createsuperuser
     ```
 
-5. Run the development server:
+6. Run the development server:
 
     ```bash
     python manage.py runserver
-    ```
+    ``` 
 
 ## API Endpoints
 
