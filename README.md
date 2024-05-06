@@ -14,7 +14,7 @@ Welcome to the Vendor Management System API documentation. This document provide
 2. Activate the virtual environment:
 
     ```bash
-    source <path_to_virtual_env>/bin/activate  # For Unix/Mac
+    source myenv/bin/activate  # For Unix/Mac
     .\myenv\Scripts\activate     # For Windows
     ```
 
