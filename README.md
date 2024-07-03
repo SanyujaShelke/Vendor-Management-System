@@ -134,7 +134,8 @@ Welcome to the Vendor Management System API documentation. This document provide
   - Endpoint: `GET /api/vendors/{vendor_id}/performance/`
   - Description: Retrieve performance metrics for a specific vendor.
 
-## Authentication
-
-API endpoints are secured with token-based authentication. To access authenticated endpoints, include the token in the request header:
+## Support
+For any questions or issues, please contact:
+- **Name**: Sanyuja Shelke
+- **Email**: shelkesanyuja7774@gmail.com
 
